@@ -10,7 +10,7 @@ Please report bugs to this repository rather than the main repository, as bugs p
 
 ```bash
 sudo apt update
-sudo apt install git build-essential ffmpeg
+sudo apt install git build-essential ffmpeg cmake
 ```
 
 #### Update Video Driver
